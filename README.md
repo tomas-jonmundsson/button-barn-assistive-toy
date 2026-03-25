@@ -13,7 +13,6 @@ Design and prototyping of a modular assistive play toy for children with cerebra
 
 ## Repository Contents
 - `report.pdf` - Full project report
-- `presentation.pdf` - Stakeholder presentation
 
 ## Tools & Technologies
 `Prototyping` `Human-Centred Design` `Assistive Technology` `Cerebral Palsy Alliance`
