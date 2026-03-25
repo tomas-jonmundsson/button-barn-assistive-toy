@@ -3,7 +3,7 @@
 **Biomedical Engineering | University of Sydney x Cerebral Palsy Alliance | 2025**
 
 ## Overview
-Design and prototyping of a modular assistive play toy for children with cerebral palsy, featuring personalised tactile and force-feedback inputs. Developed in collaboration with the Cerebral Palsy Alliance.
+Design and prototyping of a modular assistive play toy for children with cerebral palsy, featuring personalised tactile and force-feedback inputs. Developed in collaboration with Cerebral Palsy Alliance.
 
 ## Approach
 - Human-centred design process working directly with children, families, and clinicians
